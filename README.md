@@ -1,3 +1,7 @@
+This is only prototype of our app .
+Note this When you try to deploy app stack erros are apear so this project is imcomplete.
+For preview of project visit(https://moms-tiffin-app-605.created.app/).
+
 This project was generated from [create.xyz](https://create.xyz/).
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
